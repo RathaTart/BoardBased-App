@@ -1,5 +1,14 @@
 # BoardBased‑App
 
+## Website screenshots
+
+![BoardBased homepage](docs/screenshots/boardbased-home.png)
+
+![BoardBased category directory](docs/screenshots/boardbased-categories.png)
+
+Original team frontend running locally, captured September 2026 at 1280 × 800 (16:10). These show the homepage and built-in category directory; database-backed search was unavailable during capture.
+
+
 This project is a part of Theory of Computation subject.
 
 ### Members
