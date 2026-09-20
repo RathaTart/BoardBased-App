@@ -6,7 +6,7 @@
 
 ![BoardBased category directory](docs/screenshots/boardbased-categories.png)
 
-Original team frontend running locally, captured September 2026. The homepage uses an 800 × 700 view featuring 7 Wonders and the category cards; the category directory uses a 1280 × 800 view. These show the homepage and built-in category directory; database-backed search was unavailable during capture.
+Original team frontend running locally, captured September 2026. The homepage screenshot was supplied by Ratha and shows the 911 Operator slide with category cards; the category directory uses a 1280 × 800 view. These show the homepage and built-in category directory; database-backed search was unavailable during capture.
 
 
 This project is a part of Theory of Computation subject.
